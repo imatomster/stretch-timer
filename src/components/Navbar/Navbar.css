@@ -1,0 +1,22 @@
+.Navbar {
+    width: 100%;
+    height: 100px;
+    background-image: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+    border-bottom: 2px solid #83f1c5;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.title {
+    text-align: center;
+    margin: auto;
+}
+
+.credit {
+    text-align: center;
+    margin: auto;
+}

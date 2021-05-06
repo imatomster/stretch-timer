@@ -1,14 +1,15 @@
-import Card from './Card.js'
+import React from 'react'
+import './App.css'
+import Navbar from './components/Navbar/Navbar'
+import Quizlet from './components/Quizlet/Quizlet'
+
 
 function App() {
-  const log = () => { alert("hello") }
   return (
     <div className="App">
-      <h1>Hello World</h1>
-      <button onClick={log}>Click me!</button>
-      <div className="Main">
-        <Card />
-      </div>
+      <Navbar />
+
+      <Quizlet />
     </div>
   );
 }

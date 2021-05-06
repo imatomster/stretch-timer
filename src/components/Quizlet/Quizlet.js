@@ -1,5 +1,5 @@
-import React from 'react'
-import './Quizlet.css'
+import React from 'react';
+import './Quizlet.css';
 
 export default function Quizlet() {
     return (

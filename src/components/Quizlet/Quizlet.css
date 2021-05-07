@@ -1,7 +1,6 @@
 .Quizlet {
     width: 100%;
-    height: auto;
-    flex: 2 1 auto;
+    height: calc(100vh - 100px);
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;

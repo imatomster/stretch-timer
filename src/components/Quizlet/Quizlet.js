@@ -7,10 +7,6 @@ export default function Quizlet() {
         <div className="Quizlet">
             <h1>Let me know when you're ready to start!</h1>
             <Card />
-            <Card />
-            <Card />
-            <Card />
-            <Card />
         </div>
     )
 }

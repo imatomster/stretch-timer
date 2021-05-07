@@ -16,6 +16,12 @@ a {
     text-decoration: none;
 }
 
+@media (max-width: 500px) {
+    .Navbar {
+        height: 150px;
+    }
+}
+
 /* CSS for title logo on top left */
 
 .titleContainer {

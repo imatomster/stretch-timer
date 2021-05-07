@@ -49,4 +49,5 @@
 .Button>button:hover {
     transition: all 0.3s ease 0s;
     background-color: rgb(117, 113, 113);
+    border-radius: 1%;
 }

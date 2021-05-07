@@ -7,9 +7,9 @@ export default function Quizlet() {
 
     return (
         <div className="Quizlet">
-            <Button />
+            <Button name="Next" />
             <Card />
-            <Button />
+            <Button name="Previous" />
         </div>
     )
 }

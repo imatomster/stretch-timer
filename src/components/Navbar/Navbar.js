@@ -7,7 +7,7 @@ export default function Navbar() {
         <header className="Navbar">
             <div className="titleContainer">
                 <div className="title">
-                    <a href="/">
+                    <a href="https://imatomster.github.io/stretch-timer/">
                         <img src={icon} alt="yoga-icon" />
                         Stretch Timer
                     </a>
@@ -16,7 +16,7 @@ export default function Navbar() {
 
             <nav className="navContainer">
                 <ul className="navItems">
-                    <li><a href="/">Reset</a></li>
+                    <li><a href="https://imatomster.github.io/stretch-timer/">Reset</a></li>
                     <li><a href="https://github.com/imatomster/stretch-timer">Github</a></li>
                     <li><a href="https://github.com/imatomster">Tommy Hang 2021</a></li>
                 </ul>

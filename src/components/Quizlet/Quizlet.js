@@ -7,9 +7,15 @@ export default function Quizlet() {
 
     return (
         <div className="Quizlet">
-            <Button name="Next" />
+            <div className="topContainer">
+                <Button name="Timer" />
+            </div>
             <Card />
-            <Button name="Previous" />
+            <div className="botContainer">
+                <Button name="Next" />
+                <Button name="Pause" />
+                <Button name="Previous" />
+            </div>
         </div>
     )
 }

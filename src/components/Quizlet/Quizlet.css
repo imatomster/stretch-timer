@@ -1,4 +1,4 @@
-/* Content Container */
+/* Quizlet Component CSS */
 
 .Quizlet {
     width: 100%;
@@ -10,7 +10,24 @@
     justify-content: space-around;
 }
 
-/* Card CSS */
+/* Content Cotainer CSS */
+
+.topContainer {
+    width: auto;
+    height: auto;
+}
+
+.botContainer {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* Card Component CSS */
 
 .Card {
     width: 30rem;
@@ -34,7 +51,7 @@
     font-size: 2rem;
 }
 
-/* Button CSS */
+/* Button Component CSS */
 
 .Button>button {
     background-color: rgba(207, 194, 194, 0.781);

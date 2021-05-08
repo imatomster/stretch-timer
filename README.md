@@ -44,7 +44,10 @@ ReactDOM.render(
 
 - If cloning, then just `npm install` after `git clone "link"` to install node_modules
 
-<b> Running </b>  
-- Run `npm start` to have liver server on http://localhost:3000/
-- Install ES7 React Extension which allows you to type "rfc" for template
-- 
+<b> Running on local machine </b>  
+- `git pull` from main to get latest version
+- Run `npm start` or `yarn start` to have liver server on http://localhost:3000/
+
+<b> Running on local machine </b>  
+- Source: https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/
+- Run `yarn run deploy` or `npm run deploy` to update and push to gh-pages branch

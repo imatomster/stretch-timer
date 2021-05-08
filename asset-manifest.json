@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/imatomster.github.io/stretch-timer/static/css/main.0f5cdecf.chunk.css",
-    "main.js": "/imatomster.github.io/stretch-timer/static/js/main.c758da7a.chunk.js",
-    "main.js.map": "/imatomster.github.io/stretch-timer/static/js/main.c758da7a.chunk.js.map",
-    "runtime-main.js": "/imatomster.github.io/stretch-timer/static/js/runtime-main.f5f87d8b.js",
-    "runtime-main.js.map": "/imatomster.github.io/stretch-timer/static/js/runtime-main.f5f87d8b.js.map",
-    "static/js/2.15b25680.chunk.js": "/imatomster.github.io/stretch-timer/static/js/2.15b25680.chunk.js",
-    "static/js/2.15b25680.chunk.js.map": "/imatomster.github.io/stretch-timer/static/js/2.15b25680.chunk.js.map",
-    "index.html": "/imatomster.github.io/stretch-timer/index.html",
-    "static/css/main.0f5cdecf.chunk.css.map": "/imatomster.github.io/stretch-timer/static/css/main.0f5cdecf.chunk.css.map",
-    "static/js/2.15b25680.chunk.js.LICENSE.txt": "/imatomster.github.io/stretch-timer/static/js/2.15b25680.chunk.js.LICENSE.txt"
+    "main.css": "/stretch-timer/static/css/main.0f5cdecf.chunk.css",
+    "main.js": "/stretch-timer/static/js/main.c758da7a.chunk.js",
+    "main.js.map": "/stretch-timer/static/js/main.c758da7a.chunk.js.map",
+    "runtime-main.js": "/stretch-timer/static/js/runtime-main.c09972f6.js",
+    "runtime-main.js.map": "/stretch-timer/static/js/runtime-main.c09972f6.js.map",
+    "static/js/2.15b25680.chunk.js": "/stretch-timer/static/js/2.15b25680.chunk.js",
+    "static/js/2.15b25680.chunk.js.map": "/stretch-timer/static/js/2.15b25680.chunk.js.map",
+    "index.html": "/stretch-timer/index.html",
+    "static/css/main.0f5cdecf.chunk.css.map": "/stretch-timer/static/css/main.0f5cdecf.chunk.css.map",
+    "static/js/2.15b25680.chunk.js.LICENSE.txt": "/stretch-timer/static/js/2.15b25680.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5f87d8b.js",
+    "static/js/runtime-main.c09972f6.js",
     "static/js/2.15b25680.chunk.js",
     "static/css/main.0f5cdecf.chunk.css",
     "static/js/main.c758da7a.chunk.js"

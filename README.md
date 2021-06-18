@@ -42,7 +42,8 @@ ReactDOM.render(
 );
 ```
 
-- If cloning, then just `npm install` after `git clone "link"` to install node_modules
+- If cloning, then just `npm install` or `yarn` or `yarn install` after `git clone "link"` to install node_modules
+- Note if you get "running scripts is disabled...", then open command prompt in admin and run `powershell Set-ExecutionPolicy RemoteSigned`
 
 <b> Running on local machine </b>  
 - `git pull` from main to get latest version
